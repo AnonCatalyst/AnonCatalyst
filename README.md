@@ -18,8 +18,10 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/AnonCatalyst/Ominis-OSINT"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Ominis-OSINT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ominis-OSINT"></a>
+    <a href="https://github.com/AnonCatalyst/Ominis-OSINT"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Ominis-OSINT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ominis-OSINT: Web Hunter"></a>
 
-   <a href="https://github.com/AnonCatalyst/Odinova"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Odinova&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odinova"></a>
+   <a href="https://github.com/AnonCatalyst/Odinova"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Odinova&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odinova Digital Tiger"></a>
+
+   <a href="https://github.com/AnonCatalyst/Coeus-OSINT-Framework"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Coeus-OSINT-Framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coeus OSINT Framework"></a>
   </p>
   
