@@ -33,10 +33,11 @@
 
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-OSINT-black?style=flat-square&logo=hackthebox&logoColor=white" alt="OSINT" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Cybersecurity-black?style=flat-square&logo=security&logoColor=white" alt="Cybersecurity" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Infosec-black?style=flat-square&logo=security&logoColor=white" alt="Infosec" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
 </div>
 
 ---
@@ -93,8 +94,4 @@
 
 <div align="center">
   <h2>📈 Additional Statistics</h2>
-  ![GitHub Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=anoncatalyst&theme=chartreuse-dark)
-  ![Commit Activity](https://github-readme-stats.vercel.app/api/commit-activity?username=anoncatalyst&theme=chartreuse-dark)
-</div>
-``
+  ![GitHub Contribution Graph](https://github.com/Platane/snk
