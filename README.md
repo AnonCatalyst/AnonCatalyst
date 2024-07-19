@@ -38,8 +38,3 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan&label=DocMan%20Views&labelColor=%23697689&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan)
 
-Check out my [Linktree](https://linktr.ee/istoleyourbutter)
-
-![Total Clicks](https://img.shields.io/badge/Total%20Clicks-1234-blue)
-![Daily Clicks](https://img.shields.io/badge/Daily%20Clicks-56-green)
-![Top Link](https://img.shields.io/badge/Top%20Link-500%20Clicks-orange)
