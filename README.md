@@ -89,12 +89,3 @@
 
 
 
-
-
-window.addEventListener("load", function() {
-  var raven_options = { /* your options here */ };
-  var raven = new Raven(); // Initialize Raven instance
-  raven.init_all(raven_options);
-  raven.init_world();
-  raven.fetch_data_from_server();
-});
