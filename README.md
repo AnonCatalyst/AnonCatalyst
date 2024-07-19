@@ -21,11 +21,11 @@
   <p align="left">
     <a href="https://github.com/AnonCatalyst/Ominis-OSINT"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Ominis-OSINT&theme=react&bg_color=000000&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Ominis-OSINT: Web Hunter"></a>
 
-   <a href="https://github.com/AnonCatalyst/Odinova"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Odinova&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odinova Digital Tiger"></a>
+   <a href="https://github.com/AnonCatalyst/Odinova"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Odinova&theme=react&bg_color=000000&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odinova Digital Tiger"></a>
 
-   <a href="https://github.com/AnonCatalyst/Coeus-OSINT-Framework"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Coeus-OSINT-Framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coeus OSINT Framework"></a>
+   <a href="https://github.com/AnonCatalyst/Coeus-OSINT-Framework"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Coeus-OSINT-Framework&theme=react&bg_color=000000&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coeus OSINT Framework"></a>
    
-   <a href="https://github.com/AnonCatalyst/DocMan"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=DocMan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DocMan"></a>
+   <a href="https://github.com/AnonCatalyst/DocMan"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=DocMan&theme=react&bg_color=000000&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DocMan"></a>
   </p>
   
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst&label=Profile%20Views&labelColor=%23697689&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst)
