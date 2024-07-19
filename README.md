@@ -30,6 +30,10 @@
    <a href="https://github.com/AnonCatalyst/Coeus-OSINT-Framework"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Coeus-OSINT-Framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coeus OSINT Framework"></a>
    
    <a href="https://github.com/AnonCatalyst/DocMan"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=DocMan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DocMan"></a>
-
   </p>
   
+ 📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
+ <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
+</p></center>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnonCatalyst&layout=compact&theme=chartreuse-dark" />
+<p align="center">  
