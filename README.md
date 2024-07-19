@@ -32,7 +32,6 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Technologies & Tools</h2>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-OSINT-black?style=flat-square&logo=hackthebox&logoColor=white" alt="OSINT" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
