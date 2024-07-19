@@ -89,35 +89,3 @@
 
 
 
-<iframe id="raven-iframe" src="src/raven.html" frameborder="0" width="100%" height="100%" scrolling="auto"></iframe>
-
-<script type="text/javascript">
-  document.getElementById('raven-iframe').addEventListener("load", function() {
-    var raven_options = {
-      'world_type': null,
-      'selected_countries': [],
-      'remove_countries': ['aq'],
-      'height': window.innerHeight,
-      'width': window.innerWidth,
-      'backup_background_color': '#212222',
-      'orginal_country_color': '#737373',
-      'clicked_country_color': '#6c4242',
-      'selected_country_color': '#ff726f',
-      'attack_output': true,
-      'global_timeout': 2000,
-      'global_stats_limit': 10,
-      'db_length': 1000,
-      'location': 'scripts',
-      'panels': ['single-output'],
-      'disable': ['multi-output','tooltip', 'random', 'insert','taskbar','move_to_country'],
-      'websocket':{'server':'ws://localhost:5678', 
-                    'request_timeout':3000},
-      'verbose': false
-    }
-
-    window['raven'] = document.getElementById('raven-iframe').contentWindow.raven
-    window['raven'].init_all(raven_options)
-    window['raven'].init_world()
-    window['raven'].fetch_data_from_server()
-  });
-</script>
