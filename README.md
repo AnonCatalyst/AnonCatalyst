@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Welcome to AnonCatalyst's GitHub Profile!</h1>
   <p>🔍 OSINT Specialist | Developer | Tech Enthusiast</p>
   <p>Explore my projects and contributions below. Feel free to connect!</p>
 </div>
