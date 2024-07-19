@@ -13,3 +13,11 @@
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+
+
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/AnonCatalyst/Ominis-OSINT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Ominis-OSINT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ominis-OSINT"></a>
+  </p>
+  
