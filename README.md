@@ -72,10 +72,10 @@
 
 <div align="center">
   <h2>🔗 Connect with Me</h2>
-  <a href="https://instagram.com/istoelyourbutter">
+  <a href="https://instagram.com/istoleyourbutter">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="border: 2px solid limegreen; border-radius: 10px;"/>
   </a>
-  <a href="https://linktr.ee/istoelyourbutter">
+  <a href="https://linktr.ee/istoleyourbutter">
     <img src="https://img.shields.io/badge/Linktree-000000?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" style="border: 2px solid limegreen; border-radius: 10px;"/>
   </a>
   <a href="https://x.com/AnonCatalyst">
