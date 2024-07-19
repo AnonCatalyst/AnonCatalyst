@@ -83,9 +83,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
-  <h2>📈 Additional Statistics</h2>
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" style="border: 2px solid limegreen; border-radius: 10px;"/>
 </div>
