@@ -29,3 +29,5 @@
   </p>
   
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst&label=Profile%20Views&labelColor=%23697689&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FOminis-OSINT&label=Ominis-OSINT%20Views&labelColor=%23697689&countColor=%23263759&style=plastic)
