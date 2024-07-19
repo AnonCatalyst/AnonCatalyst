@@ -31,5 +31,5 @@
  📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
  <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
 </p></center>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnonCatalyst&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anoncatalyst.vercel.app/api/top-langs/?username=AnonCatalyst&layout=compact&theme=chartreuse-dark" />
 <p align="center">  
