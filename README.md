@@ -29,8 +29,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
@@ -38,8 +36,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Cybersecurity-black?style=flat-square&logo=security&logoColor=white" alt="Cybersecurity" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Infosec-black?style=flat-square&logo=security&logoColor=white" alt="Infosec" style="border: 2px solid limegreen; border-radius: 10px;"/></a>
 </div>
-
----
 
 <div align="center">
   <h2>📘 My Top Projects</h2>
