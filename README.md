@@ -66,20 +66,11 @@
 
 <div align="center">
   <h2>👀 Project Views</h2>
-  <div>
-    <div align="center">
-  <h2>👁️ Profile Views</h2>
-  <p>See how many times your profile has been visited!</p>
-  <a href="https://github.com/AnonCatalyst">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AnonCatalyst.AnonCatalyst" alt="Profile Views" style="border: 3px solid limegreen; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
-  </a>
-      
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FCoeus-OSINT-Framework&label=Coeus-OSINT-Framework%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Coeus-OSINT-Framework Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FOdinova&label=Odinova%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Odinova Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan&label=DocMan%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="DocMan Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
 </div>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FCoeus-OSINT-Framework&label=Coeus-OSINT-Framework%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Coeus-OSINT-Framework Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FOdinova&label=Odinova%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Odinova Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan&label=DocMan%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="DocMan Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
-  </div>
-</div>
+
 ---
 
 <div align="center">
@@ -99,4 +90,5 @@
 
 <div align="center">
   <h2>📈 Additional Statistics</h2>
-  ![GitHub Contribution Graph](https://github.com/Platane/snk
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" style="border: 2px solid limegreen; border-radius: 10px;"/>
+</div>
