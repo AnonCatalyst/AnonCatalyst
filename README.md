@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://github.com/anoncatalyst">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoncatalyst&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoncatalyst&layout=compact&langs_count=10&theme=cobalt"/>
 </div>
 
 
@@ -16,9 +15,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst&label=VISITORS&labelColor=%23697689&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst)
 
   <summary><h2>📘 My Top Projects</h2></summary>
 
