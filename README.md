@@ -38,4 +38,4 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan&label=DocMan%20Views&labelColor=%23697689&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan)
 
-[![Linktree Stats](https://linktree-stats.demolab.com/?user=istoleyourbutter&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/linktree-stats)
+<img decoding="async" loading="lazy" src="https://linktree-stats.demolab.com/?user=istoleyourbutter&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="Linktree Stats">
