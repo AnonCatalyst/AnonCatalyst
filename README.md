@@ -60,7 +60,7 @@
 
 <div align="center">
   <h2>👀 Project Views</h2>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FCoeus-OSINT-Framework&label=Coeus-OSINT-Framework%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Coeus-OSINT-Framework Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FCoeus-OSINT-ToolBox&label=Coeus-OSINT-ToolBox%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Coeus-OSINT-ToolBox Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FOdinova&label=Odinova%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="Odinova Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnonCatalyst%2FDocMan&label=DocMan%20Views&labelColor=%23697689&countColor=%23263759&style=plastic" alt="DocMan Views" style="border: 2px solid limegreen; border-radius: 10px;"/>
 
