@@ -48,10 +48,10 @@
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Odinova&theme=chartreuse-dark&bg_color=000000&title_color=FF0000&hide_border=false&icon_color=F8D866&show_icons=false" alt="Odinova Digital Tiger" style="border: 2px solid limegreen; border-radius: 10px;"/>
     </a>
     <a href="https://github.com/AnonCatalyst/Coeus-OSINT-Framework">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Coeus-OSINT-Framework&theme=chartreuse-dark&bg_color=000000&title_color=FF0000&hide_border=false&icon_color=F8D866&show_icons=false" alt="Coeus OSINT Framework" style="border: 2px solid limegreen; border-radius: 10px;"/>
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=Coeus-OSINT-ToolBox&theme=chartreuse-dark&bg_color=000000&title_color=FF0000&hide_border=false&icon_color=F8D866&show_icons=false" alt="Coeus OSINT ToolBox" style="border: 2px solid limegreen; border-radius: 10px;"/>
     </a>
     <a href="https://github.com/AnonCatalyst/DocMan">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=DocMan&theme=chartreuse-dark&bg_color=000000&title_color=FF0000&hide_border=false&icon_color=F8D866&show_icons=false" alt="DocMan" style="border: 2px solid limegreen; border-radius: 10px;"/>
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonCatalyst&repo=WebHound&theme=chartreuse-dark&bg_color=000000&title_color=FF0000&hide_border=false&icon_color=F8D866&show_icons=false" alt="WebHound" style="border: 2px solid limegreen; border-radius: 10px;"/>
     </a>
   </div>
 </div>
