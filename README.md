@@ -1,5 +1,5 @@
 <div align="center">
-  <p>🔍 OSINT Specialist | Developer | Front-End Development</p>
+  <p>🔍 OSINT Specialist | Developer | Front End Developer | Cybersecurity Enthusiast</p>
   <p>Explore my projects and contributions below. Feel free to connect!</p>
 </div>
 
