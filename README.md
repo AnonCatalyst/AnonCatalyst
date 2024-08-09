@@ -1,5 +1,5 @@
 <div align="center">
-  <p>🔍 OSINT Specialist | Developer | Tech Enthusiast</p>
+  <p>🔍 OSINT Specialist | Developer | Innovative</p>
   <p>Explore my projects and contributions below. Feel free to connect!</p>
 </div>
 
