@@ -6,16 +6,6 @@
 ---
 
 <div align="center">
-  <h2>📖 Guest Book</h2>
-  <p>Leave a message or feedback in my guest book:</p>
-  <a href="https://github.com/AnonCatalyst/AnonCatalyst/issues">
-    <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" width="200" style="border: 2px solid limegreen; border-radius: 10px;"/>
-  </a>
-</div>
-
----
-
-<div align="center">
   <h2>📈 GitHub Statistics</h2>
   <a href="https://github.com/anoncatalyst">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoncatalyst&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" style="border: 2px solid limegreen; border-radius: 10px;"/>
